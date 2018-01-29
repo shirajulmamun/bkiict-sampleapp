@@ -12,5 +12,8 @@ namespace EntityFrameworkApp.Models
         public string Name { get; set; }
         public string RegNo { get; set; }
         public string EmailAddress { get; set; }
+
+        public int? DepartmentId { get; set; }
+        public Department Department { get; set; }
     }
 }
