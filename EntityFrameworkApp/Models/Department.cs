@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using EntityFrameworkApp.Models;
+﻿using System.Collections.Generic;
 
-namespace EntityFrameworkApp
+namespace EntityFrameworkApp.Models
 {
     public class Department
     {
